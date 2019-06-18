@@ -27,4 +27,6 @@ public class Display_qr_fragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
         qr_view.setImageResource(R.drawable.sample);
     }
+
+
 }
